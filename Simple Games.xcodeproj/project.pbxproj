@@ -11,6 +11,7 @@
 		935107C02B14789D00D7C20F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 935107BF2B14789D00D7C20F /* ContentView.swift */; };
 		935107C22B14789E00D7C20F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 935107C12B14789E00D7C20F /* Assets.xcassets */; };
 		935107C52B14789E00D7C20F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 935107C42B14789E00D7C20F /* Preview Assets.xcassets */; };
+		935107CC2B1479B000D7C20F /* RockPaperScissors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 935107CB2B1479B000D7C20F /* RockPaperScissors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		935107BF2B14789D00D7C20F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		935107C12B14789E00D7C20F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		935107C42B14789E00D7C20F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		935107CB2B1479B000D7C20F /* RockPaperScissors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaperScissors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				935107BD2B14789D00D7C20F /* Simple_GamesApp.swift */,
 				935107BF2B14789D00D7C20F /* ContentView.swift */,
+				935107CB2B1479B000D7C20F /* RockPaperScissors.swift */,
 				935107C12B14789E00D7C20F /* Assets.xcassets */,
 				935107C32B14789E00D7C20F /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				935107C02B14789D00D7C20F /* ContentView.swift in Sources */,
 				935107BE2B14789D00D7C20F /* Simple_GamesApp.swift in Sources */,
+				935107CC2B1479B000D7C20F /* RockPaperScissors.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
